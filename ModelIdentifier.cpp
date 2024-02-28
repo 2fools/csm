@@ -23,8 +23,6 @@
 //<
 //#############################################################################
 
-#define CSM_LIBRARY
-
 #include "ModelIdentifier.h"
 #include "Error.h"
 #include <sstream>

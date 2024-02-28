@@ -27,7 +27,6 @@
 //
 //#############################################################################
 
-#define CSM_LIBRARY
 #include "FourParameterCorrelationFunction.h"
 #include "Error.h"
 #include <cmath>

@@ -20,8 +20,6 @@
 //
 //#############################################################################
 
-#define CSM_LIBRARY
-
 #include "Plugin.h"
 
 #include <algorithm>

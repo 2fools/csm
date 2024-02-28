@@ -16,10 +16,6 @@
 //
 //#############################################################################
 
-#ifndef CSM_LIBRARY
-#define CSM_LIBRARY
-#endif
-
 #include "SettableEllipsoid.h"
 #include "Model.h"
 

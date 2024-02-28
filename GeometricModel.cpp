@@ -32,8 +32,6 @@
 //
 //#############################################################################
 
-#define CSM_LIBRARY
-
 #include "GeometricModel.h"
 
 namespace csm {

@@ -28,7 +28,6 @@
 //
 //#############################################################################
 
-#define CSM_LIBRARY
 #include "ConstantCorrelationFunction.h"
 #include "Error.h"
 #include <cmath>

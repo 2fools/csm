@@ -26,7 +26,6 @@
 //
 //#############################################################################
 
-#define CSM_LIBRARY
 #include "DampedCosineCorrelationFunction.h"
 #include "Error.h"
 #include <cmath>

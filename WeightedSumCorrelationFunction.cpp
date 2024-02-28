@@ -23,7 +23,6 @@
 //
 //#############################################################################
 
-#define CSM_LIBRARY
 #include "WeightedSumCorrelationFunction.h"
 #include "Error.h"
 #include <cmath>

@@ -36,7 +36,6 @@
 //
 //#############################################################################
 
-#define CSM_LIBRARY
 #include "FourParameterCorrelationModel.h"
 #include "FourParameterCorrelationFunction.h"
 #include "ConstantCorrelationFunction.h"

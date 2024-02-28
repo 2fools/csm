@@ -22,7 +22,6 @@
 //                            efficiency.
 //#############################################################################
 
-#define CSM_LIBRARY
 #include "MultiFunctionCorrelationModel.h"
 #include "ConstantCorrelationFunction.h"
 #include "Error.h"

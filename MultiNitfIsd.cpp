@@ -20,10 +20,6 @@
 //
 //#############################################################################
 
-#ifndef CSM_LIBRARY
-#define CSM_LIBRARY
-#endif
-
 #include "MultiNitfIsd.h"
 #include "Error.h"
 

@@ -9,3 +9,4 @@ solaris64_stlport/
 solaris86/
 win32/
 *~
+/bld

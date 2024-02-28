@@ -1,0 +1,59 @@
+project(csmapi)
+set(modules
+    BundleGM.cpp
+    BundleGM.h
+    BytestreamIsd.h
+    ConstantCorrelationFunction.cpp
+    ConstantCorrelationFunction.h
+    CorrelationModel.cpp
+    CorrelationModel.h
+    csm.h
+    csmPointCloud.cpp
+    csmPointCloud.h
+    DampedCosineCorrelationFunction.cpp
+    DampedCosineCorrelationFunction.h
+    Ellipsoid.cpp
+    Ellipsoid.h
+    Error.h
+    FourParameterCorrelationFunction.cpp
+    FourParameterCorrelationFunction.h
+    FourParameterCorrelationModel.cpp
+    FourParameterCorrelationModel.h
+    GeometricModel.cpp
+    GeometricModel.h
+    Isd.cpp
+    Isd.h
+    LinearDecayCorrelationFunction.cpp
+    LinearDecayCorrelationFunction.h
+    LinearDecayCorrelationModel.cpp
+    LinearDecayCorrelationModel.h
+    Model.h
+    ModelIdentifier.cpp
+    ModelIdentifier.h
+    MultiFunctionCorrelationModel.cpp
+    MultiFunctionCorrelationModel.h
+    MultiNitfIsd.cpp
+    MultiNitfIsd.h
+    NitfIsd.h
+    Plugin.cpp
+    Plugin.h
+    PointCloudGM.cpp
+    PointCloudGM.h
+    PointCloudIsd.cpp
+    PointCloudIsd.h
+    RasterGM.cpp
+    RasterGM.h
+    SettableEllipsoid.cpp
+    SettableEllipsoid.h
+    SPDCorrelationFunction.h
+    Version.cpp
+    Version.h
+    Warning.h
+    WeightedSumCorrelationFunction.cpp
+    WeightedSumCorrelationFunction.h
+)
+
+set(BUILD_SHARED_LIBS 1)
+
+add_library(csmapi ${modules})
+add_compile_definitions(csmapi CSM_LIBRARY)

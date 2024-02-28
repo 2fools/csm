@@ -33,7 +33,6 @@
 //    NOTES:
 //     Refer to LinearDecayCorrelationModel.h for more information.
 //#############################################################################
-#define CSM_LIBRARY
 #include "LinearDecayCorrelationModel.h"
 #include "LinearDecayCorrelationFunction.h"
 #include "Error.h"

@@ -20,7 +20,6 @@
 //
 //#############################################################################
 
-#define CSM_LIBRARY
 #include "Isd.h"
 #include "BytestreamIsd.h"
 #include "NitfIsd.h"

@@ -23,7 +23,6 @@
 //
 //#############################################################################
 
-#define CSM_LIBRARY
 #include "CorrelationModel.h"
 #include "Error.h"
 

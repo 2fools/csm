@@ -205,7 +205,7 @@ namespace csm
    class CSM_EXPORT_API ModelBounds
    {
    public:
-      ModelBounds();
+      //ModelBounds();
          //> This constructor creates a ModelBounds with uninitialized member
          //  variables.
          //<

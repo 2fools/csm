@@ -17,10 +17,6 @@
 //
 //#############################################################################
 
-#ifndef CSM_LIBRARY
-#define CSM_LIBRARY
-#endif
-
 #include "Ellipsoid.h"
 #include <cmath>
 
